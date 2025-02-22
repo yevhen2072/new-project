@@ -1,3 +1,2 @@
 Second file text
-Hello Word
-Приветls!
+Hello Word!
